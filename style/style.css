@@ -1,0 +1,162 @@
+.container {
+    width:100%;
+    border:1px solid #eee;
+    margin: 3px;
+    padding:3px;
+    font-family: Tahoma;
+    background-color: #91ced4;
+    text-align: left;
+    float: left;
+    position: relative;
+    left: 0;
+    
+}
+table, tr, td, th{
+    text-align:left;
+}
+
+.container .div_result{
+    width:90%;
+    float: left;
+    position: relative;
+    left: 5%;
+    top: 10px;
+    
+    
+}
+
+.container table td, table th {
+  color: #2b686e;
+  padding: 10px;
+}
+.container table td {
+  text-align: center;
+  vertical-align: middle;
+}
+.container table td:last-child {
+  font-size: 0.95em;
+  line-height: 1.4;
+  text-align: left;
+}
+.container table th {
+  background-color: #daeff1;
+  font-weight: 300;
+}
+.container table tr:nth-child(2n) {
+  background-color: white;
+}
+.container table tr:nth-child(2n+1) {
+  background-color: #edf7f8;
+}
+.container table tr:hover {
+  background-color: #efe1ac;
+  border: 1px solid #f4ce42;
+
+}
+.Hoohle{
+    font-family:arial,sans-serif;
+    width:100%;
+    border:1px solid #eee;
+    margin: 3px;
+    padding:3px;
+    background-color: #fff;
+    text-align: left;
+    float: left;
+    position: relative;
+    left: 0;
+}
+.Hoohle h_results{
+    margin:3px;
+}
+.Hoohle div.h_result{
+    padding-left:3px;
+    margin-bottom:10px;
+    width: 80%;
+}
+.Hoohle div.h_result:hover{
+    /*background-color: #eee;*/
+    border-left:2px solid #acc6ef;
+    
+}
+.Hoohle div{
+    font-family:arial,sans-serif;
+}
+.Hoohle div.h_title a:link, a:visited{
+    color: rgb(26, 13, 171);
+    display: inline-block;
+    font-size: 18px;
+    font-family:arial,sans-serif;
+}
+.Hoohle div.h_link a:link, a:visited{
+    color: #006621;
+    display: inline-block;
+    font-size: 14px;
+    font-family:arial,sans-serif;
+    padding-top:1px;
+}
+.Hoohle div.h_link a:hover{
+    text-decoration: none;
+}
+.Hoohle h_disc{
+    font-size: small;
+    
+}
+
+/* unvisited link */
+.container a:link {
+    color: red;
+}
+
+/* visited link */
+.container a:visited {
+    color: green;
+}
+
+/* mouse over link */
+.container a:hover {
+    color: hotpink;
+    text-decoration: underline;
+}
+
+/* selected link */
+.container a:active {
+    color: blue;
+    text-decoration: underline;
+}
+
+.output_wrapper, .output {
+    height:auto !important;
+    max-height: none;
+}
+.output_scroll {
+    box-shadow:none !important;
+    webkit-box-shadow:none !important;
+}
+
+.package_header {
+    width: 100%;
+    background-color: #0e2b59;
+    color: #ffffff;
+    font-size: 14px;
+    text-align: center;
+    padding-top: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+    padding-left: 8px;
+}
+
+.placeholder {
+    width: 100%;
+    background-color: #ffffff;
+    height: 6px;
+}
+
+.passed_test_table {
+  display: table;         
+  width: 100%;         
+
+  background-color: #ebffd3;                
+  border-spacing: 5px;
+}
+
+# (...) rest of css classes omitted 
