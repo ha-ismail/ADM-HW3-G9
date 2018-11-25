@@ -11,7 +11,7 @@
 1. Homework_3.ipynb: the main markdown file, containing the explanation of the high level code.
 2. Classes.ipynb: the explanation of the classes we used to solve the tasks (this file is for illustration purpose only, not executable!).
 3. Classes (folder): contains the classes .py files.
-⋅⋅1. hoohle.py: the python code of the classes (explained in the above file, Classes.ipynb)
+⋅⋅* hoohle.py: the python code of the classes (explained in the above file, Classes.ipynb)
 4. style (folder): contains the css files used in the html presentation of our results.
 5. data (folder): contains the TSV files.
 6. framework (folder): contains the saved index and framworks files.
