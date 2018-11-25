@@ -1,9 +1,11 @@
-# ADM-HW3-G9
-ADM 2018, HW 3, Group 9
+# Homework 3 in ADM - Find the perfect place to stay in Texas!
 
-. Hannes Engelhardt
-. Hassan Ismail
-. Giuliano Tocilj
+##ADM 2018, HW 3, Group 9
+
+
+..* Hannes Engelhardt
+..* Hassan Ismail
+..* Giuliano Tocilj
 
 ### File Structure:
 1. Homework_3.ipynb: the main markdown file, containing the explanation of the high level code.
