@@ -20,3 +20,8 @@
 1. First read the Homework_3.ipynb file (maybe use a split screen with hoohle.py to follow the functions).
 2. Then read the Classes.ipynb.
 3. And refer to the classes/hoohle.py for further information about the classes.
+
+
+### link to nbviewer file:
+
+http://nbviewer.jupyter.org/github/ha-ismail/ADM-HW3-G9/blob/master/Homework_3.ipynb
