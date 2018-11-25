@@ -13,7 +13,7 @@
 3. Classes (folder): contains the classes .py files.
 ⋅⋅* hoohle.py: the python code of the classes (explained in the above file, Classes.ipynb)
 4. style (folder): contains the css files used in the html presentation of our results.
-5. data (folder): contains the TSV files.
+5. data (folder): contains the TSV files (not uploaded to Github) but could be created by executing the code.
 6. framework (folder): contains the saved index and framworks files.
 
 ### How to read our solutions?
