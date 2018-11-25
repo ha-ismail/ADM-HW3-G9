@@ -3,9 +3,9 @@
 ##ADM 2018, HW 3, Group 9
 
 
-⋅⋅* Hannes Engelhardt
-⋅⋅* Hassan Ismail
-⋅⋅* Giuliano Tocilj
+* Hannes Engelhardt
+* Hassan Ismail
+* Giuliano Tocilj
 
 ### File Structure:
 1. Homework_3.ipynb: the main markdown file, containing the explanation of the high level code.
