@@ -1,6 +1,6 @@
 # Homework 3 in ADM - Find the perfect place to stay in Texas!
 
-##ADM 2018, HW 3, Group 9
+## ADM 2018, HW 3, Group 9
 
 
 * Hannes Engelhardt
