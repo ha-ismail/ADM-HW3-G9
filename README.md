@@ -17,9 +17,9 @@
 6. framework (folder): contains the saved index and framworks files.
 
 ### How to read our solutions?
-1. First read the Homework_3.ipynb file (maybe use a split screen with hoohle.py to follow the functions).
-2. Then read the Classes.ipynb.
-3. And refer to the classes/hoohle.py for further information about the classes.
+1. First read the Homework_3.ipynb file which explains the main approach of our solution (maybe use a split screen with hoohle.py to follow the functions).
+2. Then read the Classes.ipynb, which goes in details of our classes and functions.
+3. And you can refer to the classes/hoohle.py for further information about the classes (but it has the code explained in classes.ipynb).
 
 
 ### link to nbviewer file:
